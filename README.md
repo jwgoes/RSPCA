@@ -9,11 +9,17 @@ How to use this code:
 The following is a table of the estimators used in the paper, both those introduced and those compared via experiments, with names defined in the paper:
 
 SGD - first()
+
 R-SGD1 - firstR1()
+
 R-SGD2 - firstR2()
+
 Inc - second()
+
 R-Inc - secondR()
+
 MD - third()
+
 Robust-MD - thirdR()
 
 
