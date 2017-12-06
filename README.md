@@ -4,6 +4,8 @@ Code for "Robust Stochastic Principal Component Analysis" by John Goes, Teng Zha
 
 Paper link: http://proceedings.mlr.press/v33/goes14.pdf
 
+***Note: Of all the algorithms we introduce, we recommend Robust-Mirror Descent for general use.***
+
 How to use this code:
 
 The following is a table of the estimators used in the paper, both those introduced and those compared via experiments, with names defined in the paper:
