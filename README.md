@@ -18,9 +18,9 @@ Inc - second()
 
 R-Inc - secondR()
 
-MD - third()
+Mirror Descent (MD) - third()
 
-Robust-MD - thirdR()
+Robust-Mirror-Descent - thirdR()
 
 
 The following lists the figures in the paper and which code can reproduce them. Note that typing help function_name() explains the details of how to change parameters, etc.
@@ -28,6 +28,9 @@ The following lists the figures in the paper and which code can reproduce them. 
 Figures 1-3: 
 
 compare_all_estimators()  
+
+***Note: There appears to be an error with Figure 1 in the paper. It seems that Figure 1 in the paper corresponds to the setting where 90% of the data are outliers, the inliers live on a needle, and the MD and R-MD algorithms normalized the data to the sphere before estimation.***
+
 
 Figure 4:
 
